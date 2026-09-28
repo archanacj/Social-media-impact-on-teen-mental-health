@@ -1,6 +1,5 @@
 # Social-media-impact-on-teen-mental-health
 
-
 Social Media Impact on Teen Mental Health – Power BI Dashboard
 A mini project built with Excel and Power BI to explore how teens' social media use relates to their sleep, stress, anxiety and depression.
 
